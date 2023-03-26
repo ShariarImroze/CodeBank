@@ -1,2 +1,5 @@
 # CodeBank
-Important Codes for job interviews
+Some important Codes for job interviews for the post of Data Analytics, Machine Learning. 
+
+
+
